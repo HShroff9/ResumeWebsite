@@ -1,2 +1,2 @@
 # ResumeWebsite
-A personal resume website made using HTML &amp; CSS
+A personal resume website made using HTML, CSS & JavaScript
